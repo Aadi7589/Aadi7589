@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Aaditya Shah, Currently a Student.
+<br>
+I am currently learning Full Stack Development along with Python to integrate my work with AI.
+ Also I love to ML so Learning it for fun and making projects of all.
+<br>
+How to reach me: My E-Mail: aaditya81196@gmail.com.
+<br>
+Fun Fact: I love to make busisness, specially to scale a large company.
